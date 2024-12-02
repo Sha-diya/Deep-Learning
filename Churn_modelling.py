@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 
 #dataset
-df = pd.read_csv(r'D:\CSE5000-Thesis\deep learning\Churn_Modelling.csv')
+df = pd.read_csv(r'Churn_Modelling.csv')
 
 print(df.head())
 df.info()
